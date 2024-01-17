@@ -3485,10 +3485,6 @@ body.is-touch .spotlight {
   opacity: 1;
 }
 
-.wrapper.fade.inactive > .container {
-  opacity: 0;
-}
-
 /* Dropotron */
 
 .dropotron {
@@ -4329,6 +4325,7 @@ body.is-touch #banner {
   }
 
   #footer .copyright li {
+	  font-color: white;
     border-left: 0;
     display: block;
     margin: 0;
